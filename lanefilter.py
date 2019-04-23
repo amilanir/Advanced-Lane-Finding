@@ -1,3 +1,4 @@
+import matplotlib
 import cv2 
 import numpy as np
 from helpers import roi, scale_abs
