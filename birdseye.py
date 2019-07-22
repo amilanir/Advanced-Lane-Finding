@@ -1,8 +1,8 @@
 #
-
+import numpy as np 
 from helpers import show_dotted_image
 import cv2 
-import numpy as np 
+
 
 class BirdsEye:
     
