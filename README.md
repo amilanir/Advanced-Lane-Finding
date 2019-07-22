@@ -1,5 +1,7 @@
-# Advanced-Lane-Finding
-# [Basic Lane Detection](./A-BASIC-LANE-DETECTION/)
+﻿# **Advanced-Lane-Finding**
+[![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
+
+<vid src="videos/project_video_output.mp4" width="480" alt="Combined Image" />
 
 # INTRODUCTION
 
@@ -17,8 +19,3 @@ To achieve this, the following steps are taken:
 - Project the lane boundaries back onto the undistorted image of the original view 
 - Output a visual display of the lane boundaries and other related information 
 
-# HOW TO USE
-- You need to setup dependencies to run a Jupyter Notebook on your computer and setup a handful of packages such as `opencv`
-```
-import matplotlib.pyplot as plt
-%matplotlib in
