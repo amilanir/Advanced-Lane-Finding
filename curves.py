@@ -1,6 +1,12 @@
-#
-import cv2 
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Mar 2 06:19:11 2019
+
+@author: Amila Perera
+"""
+
 import numpy as np
+import cv2 
 
 class Curves:
   def __init__(self, number_of_windows, margin, minimum_pixels, ym_per_pix, xm_per_pix):

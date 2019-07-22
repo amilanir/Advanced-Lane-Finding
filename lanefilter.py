@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Mar 2 06:19:11 2019
+
+@author: Amila Perera
+"""
+
 import matplotlib
 import cv2 
 import numpy as np

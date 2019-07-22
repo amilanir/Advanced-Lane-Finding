@@ -1,6 +1,12 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Mar 2 06:19:11 2019
 
-import cv2 
+@author: Amila Perera
+"""
+ 
 import numpy as np
+import cv
 from scipy.misc import imread
 
 class ChessBoard:

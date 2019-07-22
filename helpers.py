@@ -1,6 +1,14 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Mar 2 06:19:11 2019
+
+@author: Amila Perera
+"""
+
+import numpy as np
 import matplotlib.pyplot as plt
 import cv2 
-import numpy as np
+
 from matplotlib.patches import Circle
 from scipy.misc import imsave
 

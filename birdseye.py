@@ -1,4 +1,10 @@
-#
+# -*- coding: utf-8 -*-
+"""
+Created on Sat Mar 2 06:19:11 2019
+
+@author: Amila Perera
+"""
+
 import numpy as np 
 from helpers import show_dotted_image
 import cv2 
