@@ -1,5 +1,5 @@
 
-# Advanced Lane Finding on the Road
+# Advanced Lane Finding
 
 <img src="videos/Screenshot2.JPG" width="480" alt="Combined Image" />
 
@@ -7,10 +7,7 @@
 
 ## Overview
 
-In this project, I will write a software pipeline to identify the lane boundaries in a video from a front-facing camera on a car. The camera calibration images, test road images, and project videos are available in the [project repository](https://github.com/miguelangel/sdc--advanced-lane-finding).
-
-The complete pipeline can be found [here](https://github.com/miguelangel/sdc--finding-lane-lines/blob/master/finding_lane_lines.ipynb).
-
+In this project, I will write a software pipeline to identify the lane boundaries in a video from a front-facing camera on a car. The camera calibration images, test road images, and project videos are available in the [project repository](https://github.com/amilanir/Advanced-Lane-Finding).
 
 ## Goals/Steps
 My pipeline consisted of 10 steps:
